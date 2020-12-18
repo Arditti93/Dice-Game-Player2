@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+
+
+.container { 
+    text-align: center;
+    margin: auto; 
+    padding: 5px;
+} 
+
+.dice { 
+    display: inline-block; 
+} 
+
+.player{
+    font-size: 50px;
+}
+
+
+body { 
+    background-color: #042f4b; 
+    margin: 0; 
+    font-family: 'Dosis', sans-serif;
+    color: #4ecca3; 
+} 
+
+
+#title{
+    font-family: 'Dosis', sans-serif;
+    text-shadow: 5px 0 #232931; 
+    font-size: 100px; 
+    color: #4ecca3; 
+    text-align: center; 
+
+}
+h1 { 
+    font-family: 'Dosis', sans-serif;
+    text-shadow: 5px 0 #232931; 
+    font-size: 70px; 
+    color: #4ecca3; 
+    text-align: center; 
+} 
+
+
+
+p { 
+    font-size: 2rem; 
+    color: #4ecca3; 
+    font-family: 'Dosis', sans-serif;
+} 
+
+img { 
+    width: 50%; 
+} 
+
+.bottom { 
+    padding-top: 30px; 
+} 
+
+.Player1roll { 
+    background: #4ecca3; 
+    font-family: 'Dosis', sans-serif;
+    border-radius: 7px; 
+    color: #ffff; 
+    font-size: 30px; 
+    text-decoration: none; 
+} 
+
+.Player2roll { 
+    background: #4ecca3; 
+    font-family: 'Dosis', sans-serif;
+    border-radius: 7px; 
+    color: #ffff; 
+    font-size: 30px; 
+    text-decoration: none; 
+} 
+
+.reset { 
+    background: #4ecca3; 
+    font-family: 'Dosis', sans-serif;
+    border-radius: 7px; 
+    color: #ffff; 
+    font-size: 30px; 
+    padding: 16px 25px 16px 25px; 
+    text-decoration: none; 
+} 
+
+
+
+.butn:hover { 
+    background: #232931; 
+    text-decoration: none; 
+} 

@@ -3,6 +3,7 @@
  ### A Two player nice game created with JQuery, CSS and HTML 
  
  **Player 2 dice game needs bug fixing**
+ 
  I spent to long working on the drum machine
 
  **[PLAY HERE](https://arditti93.github.io/DIce-Game/)**

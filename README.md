@@ -4,7 +4,7 @@
  
  ***Player 2 dice game needs bug fixing** I spent to long working on the drum machine*
 
- **[PLAY HERE](https://arditti93.github.io/DIce-Game/)**
+ **[PLAY HERE](https://arditti93.github.io/Dice-Game-Player2/)**
 
  ### Approach 
 
